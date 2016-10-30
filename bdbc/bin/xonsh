@@ -1,0 +1,3 @@
+#!/home/arturodz/Dev/projects/fiduchain/bdb_client/bdbc/bin/python3
+from xonsh.main import main
+main()
